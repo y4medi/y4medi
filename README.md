@@ -11,6 +11,8 @@ review tools — after 7+ years in insurance risk and asset-liability management
 **Featured**
 - [mortgage-analyst-pro](https://github.com/y4medi/mortgage-analyst-pro) — Canadian affordability,
   OSFI stress test and AI document intake, with a no-secrets demo mode
+- [insurance-alm-engine](https://github.com/y4medi/insurance-alm-engine) — Python/Streamlit ALM toolkit:
+  NSS curve fitting, key-rate durations, IRRBB-style rate shocks, Hull-White surplus VaR and immunization
 
 Most of my production work lives in private company repositories.
 
